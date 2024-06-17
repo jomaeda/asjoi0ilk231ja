@@ -9,13 +9,11 @@
     "description": "登記所備付地図データ　宮崎県（法務省）（G空間情報センターから2023年11月にダウンロード）／登記所備付地図データ　宮崎県（法務省）を加工して作成",
     "vector_layers": [
         {
-            "id": "road",
-            "fields": {
-                "motorway": "String"
-            },
-            "maxzoom": 18,
-            "minzoom": 0,
-            "description": ""
+            "id": "登記所備付地図データ_宮崎県_任意座標系(MVT)",
+            "fields": {  },
+            "maxzoom": 16,
+            "minzoom": 2,
+            "description": "登記所備付地図データ　宮崎県（法務省）（G空間情報センターから2023年11月にダウンロード）"
         }
     ],
     "crs": "EPSG:3857",
