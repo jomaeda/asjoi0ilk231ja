@@ -13,7 +13,7 @@
             "fields": {
                 "motorway": "String"
             },
-            "maxzoom": 14,
+            "maxzoom": 18,
             "minzoom": 0,
             "description": ""
         }
