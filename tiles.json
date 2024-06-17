@@ -3,8 +3,8 @@
     "id": "gsi-bvmap",
     "name": "GSI-BinaryVectorMap",
     "format": "pbf",
-    "maxzoom": 17,
-    "minzoom": 5,
+    "maxzoom": 16,
+    "minzoom": 2,
     "attribution": "宮崎県",
     "description": "登記所備付地図データ　宮崎県（法務省）（G空間情報センターから2023年11月にダウンロード）／登記所備付地図データ　宮崎県（法務省）を加工して作成",
     "vector_layers": [
