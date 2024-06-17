@@ -9,8 +9,8 @@
     "description": "aaaaaa",
     "vector_layers": [
         {
-            "id": "miyazaki_MVT",
-            "fields": {  },
+            "id": "miyazaki_n",
+            "fields": { "miyazaki_n":"String" },
             "maxzoom": 16,
             "minzoom": 2,
             "description": " "
