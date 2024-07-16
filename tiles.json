@@ -11,7 +11,7 @@
         {
             "id": "miyazaki_n",
             "fields": { "miyazaki_n":"String" },
-            "maxzoom": 16,
+            "maxzoom": 23,
             "minzoom": 2,
             "description": " "
         }
